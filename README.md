@@ -1,15 +1,7 @@
-# 🍔 Red Burguer's — Sistema de Hamburgueria
+# Red Burguer's — Sistema de Hamburgueria
 
 <p align="center">
   <img src="https://via.placeholder.com/1200x300.png?text=Red+Burguer%27s+🍔" alt="Banner Red Burguer's"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python">
-  <img src="https://img.shields.io/badge/Status-Concluído-success">
-  <img src="https://img.shields.io/badge/Projeto-Acadêmico-purple">
-  <img src="https://img.shields.io/badge/Interface-Terminal-lightgrey">
-  <img src="https://img.shields.io/badge/Licença-Educacional-yellow">
 </p>
 
 ---
