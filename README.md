@@ -1,8 +1,12 @@
 # Red Burguer's — Sistema de Hamburgueria
 
 <p align="center">
-  <img src="https://via.placeholder.com/1200x300.png?text=Red+Burguer%27s+🍔" alt="Banner Red Burguer's"/>
+  <img src="banner_hamburgueria" alt="Banner Red Burguer's"/>
 </p>
+
+> Sistema de Gestão de Hamburgueria — versão para terminal local
+
+**Autora:** Emanuele Kmiecik 
 
 ---
 
