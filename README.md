@@ -3,6 +3,7 @@
 <p align="center">
   <img src="banner_hamburgueria.png" alt="Banner do Projeto" width="100%">
 </p>
+
 > Sistema de Gestão de Hamburgueria — versão para terminal local
 
 **Autora:** Emanuele Kmiecik 
