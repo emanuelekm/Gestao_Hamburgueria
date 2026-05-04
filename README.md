@@ -1,135 +1,98 @@
-# Red Burguer's — Sistema de Hamburgueria
+# Red Burguer's — Sistema de Gerenciamento
 
 <p align="center">
   <img src="banner_hamburgueria.png" alt="Banner do Projeto" width="100%">
 </p>
 
-> Sistema de Gestão de Hamburgueria — versão para terminal local
-
-**Autora:** Emanuele Kmiecik 
-
----
-
-## 📖 Sobre o Projeto
-
-O **Red Burguer's** é um sistema interativo desenvolvido em Python que simula o funcionamento de uma hamburgueria, permitindo o gerenciamento completo do atendimento ao cliente.
-
-O projeto foi criado com foco em aprendizado prático de lógica de programação e estruturação de sistemas.
+![Status](https://img.shields.io/badge/status-Concluído-green?style=for-the-badge)
+![Linguagem](https://img.shields.io/badge/linguagem-Python-blue?style=for-the-badge\&logo=python)
+![Nível](https://img.shields.io/badge/nível-Básico-green?style=for-the-badge)
+![Tipo](https://img.shields.io/badge/tipo-Sistema%20de%20Terminal-purple?style=for-the-badge)
 
 ---
 
-## 🎯 Objetivo
+## Descrição
 
-Desenvolver um sistema capaz de:
+O **Red Burguer's** é um sistema interativo desenvolvido em Python que simula o funcionamento de uma hamburgueria, permitindo o gerenciamento completo do atendimento ao cliente em ambiente de terminal.
 
-- Cadastro de clientes  
-- Exibição de cardápio  
-- Realização de pedidos  
-- Controle de estoque  
-- Processamento de pagamento  
-- Avaliação do atendimento  
+O problema abordado é a organização manual de pedidos, clientes e estoque em pequenos estabelecimentos. Como solução, o sistema oferece uma simulação estruturada que centraliza todas as operações, desde o cadastro de clientes até o processamento de pedidos e pagamentos.
+
+O impacto do projeto está no desenvolvimento de lógica de negócio e na compreensão prática de como sistemas reais de atendimento funcionam, servindo como base para aplicações mais robustas.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Objetivo
 
-| Tecnologia | Descrição |
-|----------|--------|
-| Python 3 | Linguagem principal |
-| Random | Geração de vouchers |
-| Pandas | Manipulação de dados (não utilizado) |
-| NumPy | Operações numéricas (não utilizado) |
-| Matplotlib | Visualização (não utilizado) |
+* Praticar lógica de programação com Python
+* Simular um sistema real de hamburgueria
+* Desenvolver organização de código por funcionalidades
+* Aplicar regras de negócio em um sistema interativo
+* Consolidar conceitos fundamentais de programação
 
 ---
 
-## ⚙️ Funcionalidades
+## Tecnologias
 
-| Funcionalidade | Descrição |
-|--------------|--------|
-| Cadastro de Clientes | Armazena dados do usuário |
-| Listagem | Exibe todos os clientes cadastrados |
-| Cardápio | Produtos organizados por categorias |
-| Pedido | Seleção de produtos e quantidades |
-| Estoque | Atualização automática |
-| Pagamento | Múltiplas formas com desconto |
-| Promoções | Benefícios por valor de compra |
-| Nota Fiscal | Resumo completo do pedido |
-| Avaliação | Sistema de feedback com estrelas |
+* Python 3
 
 ---
 
-## 🍟 Estrutura do Cardápio
+## Preview
 
-| Categoria | Itens |
-|----------|------|
-| Acompanhamentos | Batata rústica, anéis de cebola |
-| Hambúrgueres | Cheeseburger, X-Bacon, Monstrão |
-| Sobremesas | Brownie, Merengue |
-| Bebidas | Refrigerante, Água |
+<!-- Sugestão: adicione prints do terminal ou GIF da execução -->
 
 ---
 
-## 💳 Regras de Negócio
-
-- 💰 10% de desconto para pagamento à vista  
-- 🎁 Compras acima de R$200 ganham sobremesa grátis  
-- 📦 Estoque atualizado automaticamente  
-
----
-## ▶️ Como Executar
+## Como executar
 
 ```bash
-git clone https://github.com/seu-usuario/red-burguers.git
-cd red-burguers
+# Clone o repositório
+git clone https://github.com/emanuelekm/Gestao_Hamburgueria.git
+
+# Acesse a pasta do projeto
+cd Gestao_Hamburgueria
+
+# Execute o sistema
 python arquivo.py
 ```
 
 ---
 
+## Funcionalidades
 
-## 🧠 Estrutura do Código
-
-- Funções organizadas por responsabilidade  
-- Uso de listas como armazenamento de dados  
-- Estruturas condicionais (`if/elif`)  
-- Laços de repetição (`while`)  
-- Interface interativa em terminal  
-
----
-
-## 📌 Diferenciais
-
-- Interface com ASCII Art 🎨  
-- Simulação completa de sistema real  
-- Aplicação de regras de negócio  
+* Cadastro de clientes
+* Listagem de clientes cadastrados
+* Exibição de cardápio por categorias
+* Realização de pedidos com múltiplos itens
+* Controle automático de estoque
+* Processamento de pagamento com regras de desconto
+* Sistema de promoções
+* Geração de nota fiscal
+* Avaliação do atendimento com estrelas
 
 ---
 
-## ⚠️ Limitações
+## Aprendizados
 
-- Não utiliza banco de dados  
-- Dados não são persistidos  
-- Bibliotecas importadas não utilizadas  
-
----
-
-## 🚀 Melhorias Futuras
-
-- Integração com banco de dados (MySQL/SQLite)  
-- Interface gráfica (Tkinter/PyQt)  
-- Persistência de dados  
-- Dashboard com gráficos  
-- Sistema de login  
+* Estruturação de sistemas baseados em terminal
+* Uso de estruturas condicionais (`if/elif`)
+* Aplicação de laços de repetição (`while`)
+* Organização de funções por responsabilidade
+* Simulação de regras de negócio reais
+* Manipulação de dados com listas em memória
 
 ---
 
-## 👩‍💻 Autora
+## Melhorias Futuras
 
-**Emanuele Kmiecik**
+* Integração com banco de dados (MySQL ou SQLite)
+* Desenvolvimento de interface gráfica (Tkinter ou PyQt)
+* Persistência de dados
+* Dashboard com gráficos e relatórios
+* Sistema de autenticação de usuários
 
 ---
 
-## 📄 Licença
+## Links
 
-Projeto para fins acadêmicos.
+* Repositório: https://github.com/emanuelekm/Gestao_Hamburgueria.git
